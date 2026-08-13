@@ -2,6 +2,12 @@
 
 This application includes the following direct third-party dependencies. Each component remains governed by its own license. Flutter also generates its standard license registry for Flutter SDK and transitive package notices.
 
+## Embedded M-Lab NDT7 Android client
+
+The Kotlin sources under `android/app/src/main/kotlin/net/measurementlab/ndt7/android/` are copied from [`m-lab/ndt7-client-android`](https://github.com/m-lab/ndt7-client-android) at revision `3e831b785bf4086fddb8e700458588e39b493cf0`. The upstream files are unchanged apart from their repository location. `BuildConfig.kt` is a project-specific addition.
+
+The upstream project is licensed under Apache License 2.0. The complete Apache License 2.0 text is reproduced in the `hive` section below. See the adjacent `UPSTREAM.md` for provenance and modification details.
+
 ## cupertino_icons 1.0.8
 
 ```text
