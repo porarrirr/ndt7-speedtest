@@ -25,3 +25,7 @@ flutter build apk --debug
 ```
 
 GitHub Actions can produce an Android debug APK and an unsigned iOS build artifact. An unsigned iOS artifact is not a normal App Store or device-installable release.
+
+## License
+
+The original code is proprietary and all rights are reserved. See [LICENSE](LICENSE). Direct dependency licenses are preserved in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), which is also included as an application asset.

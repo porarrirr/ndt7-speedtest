@@ -25,3 +25,7 @@ flutter build apk --debug
 ```
 
 GitHub ActionsではAndroidのデバッグAPKと未署名のiOS成果物を生成できます。未署名のiOS成果物は、通常のApp Store配布物や端末へそのままインストールできるリリースではありません。
+
+## ライセンス
+
+独自コードはプロプライエタリで、すべての権利を留保します。詳細は [LICENSE](LICENSE) を参照してください。直接依存する第三者コンポーネントのライセンス原文は [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) に保存し、アプリのアセットにも含めています。
